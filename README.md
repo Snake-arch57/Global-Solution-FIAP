@@ -1,2 +1,4 @@
 # Global-Solution-FIAP
-Projeto onde foi proposta uma análise de log com codificação  base-64 
+##Projeto onde foi proposta uma análise de log com codificação  base-64 
+##Nesse projeto houve uma codificação usando a base-64 e o objetivo era decodifica-la e criar duas pastas uma contendo a assinatura do autor que já nos foi dada e outra com todas as decodificações em "texto puro"
+
